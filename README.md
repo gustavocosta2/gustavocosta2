@@ -6,7 +6,8 @@
 
 - 🌐 Tenho experiência nas linguagens Python, SQL, C++ e Java<br>
 - 🔬 Realizei pesquisas científicas na área da Visão Computacional <br>
-- 📚 Estou estudando Ciência da Computação na UFLA (Universidade Federal de Lavras) <br>
+- 📚 Fui estudante de Ciência da Computação na UFLA (Universidade Federal de Lavras) por 2 anos<br>
+- 📚 Sou estudante de Ciência de Dados e Inteligência Artificial na PUC Minas<br>
 - 📧 Quer entrar em contato comigo? Envie um e-mail para gustavocosta.ds09@gmail.com <br>
 <br>
 
