@@ -25,6 +25,7 @@ Me chamo Gustavo Costa, atualmente sou discente no curso de Ciência de Dados na
 - SQL
 - Estatística descritiva e inferencial aplicada à análise de dados
 - Excel
+- Power BI
 - C++
 - Java
 - Git & Version Control
