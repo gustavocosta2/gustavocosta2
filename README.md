@@ -15,7 +15,7 @@
 
 ## Sobre mim:
 
-Me chamo Gustavo Costa, atualmente sou discente no curso de Ciências da Computação na Universidade Federal de Lavras (UFLA). Sou fascinado pelas informações úteis que os dados armazenam e pela Inteligência Artificial!
+Me chamo Gustavo Costa, atualmente sou discente no curso de Ciência de Dados na Pontífica Universidade Católica de Minas Gerais (PUC MINAS). Sou fascinado pelas informações úteis que os dados armazenam e pela Inteligência Artificial!
 
 <br>
 
