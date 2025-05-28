@@ -53,7 +53,7 @@ Machine Learning, realizar a contagem automática dessas toxinas prejudiciais à
 <br>
 
 
-Quanto aos idiomas, sou fluente em português, inglês intermediário e espanhol básico.
+Quanto aos idiomas, sou fluente em português, inglês intermediário e espanhol básico. Atualmente estou aprendendo a língua italiana!
 
 
 Fique à vontade para explorar meus projetos e entrar em contato comigo. Estou animado para compartilhar meu conhecimento e colaborar em projetos interessantes.
